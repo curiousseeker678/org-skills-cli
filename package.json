@@ -1,0 +1,14 @@
+{
+  "name": "org-skills-cli",
+  "version": "1.0.0",
+  "description": "Internal CLI wrapper for skills.sh",
+  "main": "index.js",
+  "bin": {
+    "org-skills": "./bin/org-skills.js"
+  },
+  "dependencies": {
+    "chalk": "^4.1.2",
+    "commander": "^12.0.0",
+    "execa": "^9.0.0"
+  }
+}
