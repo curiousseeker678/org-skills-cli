@@ -9,6 +9,7 @@
   "dependencies": {
     "chalk": "^4.1.2",
     "commander": "^12.0.0",
-    "execa": "^9.0.0"
+    "execa": "^9.0.0",
+    "skills": "^1.5.10"
   }
 }
